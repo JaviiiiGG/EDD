@@ -15,8 +15,7 @@
 | Característica | Descripció |
 | --- | ---|
 | Lenguatge | Java|
-| Descripció breu | El Java és un llenguatge de programació dissenyat el 1990 per James Gosling a partir del llenguatge C. És un llenguatge flexible i potent tot i la facilitat amb la qual es programa i dels resultats que ofereix. Un dels trets que el caracteritza i que el fa una eina molt valorada a l'hora de desenvolupar aplicacions distribuïdes, és el fet que és un llenguatge multi-plataforma.
- | 
+| Descripció breu | El Java és un llenguatge de programació dissenyat el 1990 per James Gosling a partir del llenguatge C. És un llenguatge flexible i potent tot i la facilitat amb la qual es programa i dels resultats que ofereix. Un dels trets que el caracteritza i que el fa una eina molt valorada a l'hora de desenvolupar aplicacions distribuïdes, és el fet que és un llenguatge multi-plataforma.| 
 | Nivell | Alt |
 | Propòsit | General |
 | Generació | 3GL |
@@ -25,7 +24,7 @@
 | Paradigma de programació | Orientada a objectes |
 | On sol orientar-se | Client/Servidor  |
  
- | Característica | Descripció |
+| Característica | Descripció |
 | --- | ---|
 | Lenguatge | Python |
 | Descripció breu | Python és un llenguatge de programació interpretat la filosofia posa l'accent en una sintaxi que afavoreix un codi llegible. I defineix aquest com un llenguatge multiparadigma, pel fet que suporta orientació a objectes, programació imperativa i en menor mesura programació funcional. És interpretat de tipus dinàmics i multiplataforma. | 
@@ -37,7 +36,7 @@
 | Paradigma de programació | Funcional |
 | On sol orientar-se | Client |
  
- | Característica | Descripció |
+| Característica | Descripció |
 | --- | ---|
 | Lenguatge | PHP (Hypertext Pre-Processor)Lenguaje de Programación Interpretado|
 | Descripció breu | Aquest llenguatge és al que li devem la visualització de contingut dinàmic a les pàgines web. Tot el codi PHP és invisible per a l'usuari, perquè totes les interaccions que es desenvolupen en aquest llenguatge són completament transformades perquè es puguin veure imatges, varietat de multimèdia i els formats amb els que som capaços d'interactuar afegint o descarregant informació d'ells . | 
@@ -49,11 +48,10 @@
 | Paradigma de programació | Procedural |
 | On sol orientar-se | Servidor |
  
- | Característica | Descripció |
+| Característica | Descripció |
 | --- | ---|
 | Lenguatge | C++ |
-| Descripció breu | C ++ és un llenguatge de programació dissenyat el 1979 per Bjarne Stroustrup. La intenció de la seva creació va ser estendre al llenguatge de programació C mecanismes que permeten la manipulació d'objectes.
- | 
+| Descripció breu | C ++ és un llenguatge de programació dissenyat el 1979 per Bjarne Stroustrup. La intenció de la seva creació va ser estendre al llenguatge de programació C mecanismes que permeten la manipulació d'objectes.| 
 | Nivell | Baix |
 | Propòsit | General |
 | Generació | 3GL |
@@ -62,7 +60,7 @@
 | Paradigma de programació | Orientada a objectes |
 | On sol orientar-se | Client |
  
- | Característica | Descripció |
+| Característica | Descripció |
 | --- | ---|
 | Lenguatge | C# |
 | Descripció breu | C # (pronunciat si sharp en anglès) és un llenguatge de programació orientat a objectes desenvolupat i estandarditzat per Microsoft com a part de la seva plataforma .NET, que després va ser aprovat com un estàndard per la ECMA (ECMA-334) i ISO (ISO / IEC 23270). C # és un dels llenguatges de programació dissenyats per a la infraestructura de llenguatge comú. | 
@@ -86,7 +84,7 @@
 | Paradigma de programació | Funcional/Estructurat |
 | On sol orientar-se | Client/Servidor |
  
- | Característica | Descripció |
+| Característica | Descripció |
 | --- | ---|
 | Lenguatge | Shell |
 | Descripció breu | En informàtica, el shell o intèrpret d'ordres o intèrpret d'ordres és el programa informàtic que proveeix una interfície d'usuari per accedir als serveis del sistema operatiu. | 
@@ -98,7 +96,7 @@
 | Paradigma de programació | Fncional |
 | On sol orientar-se | Client/Servidor |
  
- | Característica | Descripció |
+| Característica | Descripció |
 | --- | ---|
 | Lenguatge | C |
 | Descripció breu | C es un lenguaje de programación de propósito general originalmente desarrollado por Dennis Ritchie entre 1969 y 1972 en los Laboratorios Bell, como evolución del anterior lenguaje B, a su vez basado en BCPL. | 
@@ -110,10 +108,10 @@
 | Paradigma de programació | Orientada a Objectes |
 | On sol orientar-se | Client/Servidor |
  
- | Característica | Descripció |
+| Característica | Descripció |
 | --- | ---|
 | Lenguatge | Ruby |
-| Descripció breu | Ruby es un lenguaje de programación interpretado, reflexivo y orientado a objetos, creado por el programador japonés Yukihiro "Matz" Matsumoto, quien comenzó a trabajar en Ruby en 1993, y lo presentó públicamente en 1995. Combina una sintaxis inspirada en Python y Perl con características de programación orientada a objetos similares a Smalltalk. Comparte también funcionalidad con otros lenguajes de programación como Lisp, Lua, Dylan y CLU. Ruby es un lenguaje de programación interpretado en una sola pasada y su implementación oficial es distribuida bajo una licencia de software libre.  | 
+| Descripció breu | Ruby es un lenguaje de programación interpretado, reflexivo y orientado a objetos, creado por el programador japonés Yukihiro "Matz" Matsumoto, quien comenzó a trabajar en Ruby en 1993, y lo presentó públicamente en 1995. Combina una sintaxis inspirada en Python y Perl con características de programación orientada a objetos similares a Smalltalk. Comparte también funcionalidad con otros lenguajes de programación como Lisp, Lua, Dylan y CLU. Ruby es un lenguaje de programación interpretado en una sola pasada y su implementación oficial es distribuida bajo una licencia de software libre. | 
 | Nivell | Alt |
 | Propòsit | General |
 | Generació | 4GL |
