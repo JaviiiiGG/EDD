@@ -1,4 +1,4 @@
-# Practica 1
+# Unitat 2
 ## Extencions VSC
 ![Captura1](https://raw.githubusercontent.com/JaviiiiGG/EDD/master/img/Captura_1.png)
 
