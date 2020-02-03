@@ -26,6 +26,9 @@ int major(int op1, int op2){
 	return op2;
     }
 }
+int mitjana(int op1, int op2){
+    return ((op1+op2)/2);
+}
 
 int main()
 {
@@ -37,4 +40,5 @@ int main()
         printf("La multiplicació de %d i %d és %d\n", a, b, multiplica(a,b));
         printf("La divisió entre %d i %d és %d\n", a, b, divideix(a,b));
 	printf("El nombre major entre %d i %d és %d\n", a, b, major(a,b));
+	printf("La mitjana és %d\n", mitjana(a,b));
 }
