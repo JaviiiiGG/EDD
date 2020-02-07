@@ -1,0 +1,109 @@
+package com.ieseljust.edd;
+
+public class Calculadora {
+
+    private float lastResult;
+    private String lastOp;
+
+    public float getLastResult(){
+        return this.lastResult;
+    }
+
+    public String getLastOp(){
+        return this.lastOp;
+    }
+
+    public float suma(float op1, float op2){
+        float result=op1+op2;
+        this.lastResult=result;
+        this.lastOp="Suma";
+
+        return result;
+    }
+
+    public float resta(float op1, float op2){
+        float result=op1-op2;
+        this.lastResult=result;
+        this.lastOp="Resta";
+
+        return result;
+    }
+
+    public float multiplica(float op1, float op2){
+        // Fem els càlculs
+        float result=op1*op2;
+
+        // Actualitzem els atributs de la classe
+        this.lastResult=result;
+        this.lastOp="Multiplica";
+
+        // I finalment retornem els resultats
+        return result;
+    }
+
+    public float divideix(float op1, float op2){
+        // Fem els càlculs
+        float result=op1/op2;
+
+        // Actualitzem els atributs de la classe
+        this.lastResult=result;
+        this.lastOp="Divideix";
+
+        // I finalment retornem els resultats
+        return result;
+    }
+    public float majorQue(float op1, float op2){
+        this.lastOp="MajorQue";
+        if (op1>op2) {
+            return op1;
+        }
+        else{
+            return op2;
+        }
+    }
+    public float Mitjana(float op1, float op2){
+        float result=(op1+op2)/2;
+        this.lastResult=result;
+        this.lastOp="Mitjana";
+        return result;
+    }
+    public Boolean esPrim(float op1){
+        int contador = 2;
+        boolean primo=true;
+
+        while ((primo) && (contador!=op1)){
+            if (op1 % contador == 0){
+                primo = false;
+            }
+            contador++;
+        }
+        if (primo==false) {
+            System.out.println("El numero "+op1+" NO és primo");
+        }
+        else{
+            System.out.println("El numero "+op1+" SI és primo");
+        }
+        this.lastOp="EsPrim";
+        return primo;
+    }
+    public float proximPrim(float op1){
+        int contador = 2;
+        op1++;
+        boolean primo=true;
+
+        while ((primo) && (contador!=op1)){
+            while ((primo)&&(contador!=op1)){
+                if (op1 % contador == 0){
+                    primo = false;
+                }
+                contador++;
+            }
+            op1++;
+        }
+        
+        this.lastOp="ProxPrim";
+        this.lastResult=op1;
+        return op1;
+    }
+
+}
